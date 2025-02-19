@@ -1,0 +1,74 @@
+### **1. Basics**  
+- Install & Configure Git (user.name, user.email, editor)  
+- Initialize a repository (`git init`), clone (`git clone`)  
+- Basic workflow: `status`, `add`, `commit`, `log`, `diff`  
+
+### **2. Branching & Merging**  
+- Create/switch branches (`git branch`, `git checkout`, `git switch`)  
+- Merge branches (`git merge`)  
+- Resolve merge conflicts  
+- Delete branches  
+
+### **3. Remote Repositories**  
+- Add remotes (`git remote add`)  
+- Push to remote (`git push`)  
+- Pull from remote (`git pull`)  
+- Fetch vs. Pull (`git fetch` + manual merge)  
+
+### **4. Advanced Commits**  
+- Amend commits (`git commit --amend`)  
+- Interactive rebase (`git rebase -i`)  
+- Cherry-pick (`git cherry-pick <commit-hash>`)  
+- Squash commits  
+
+### **5. Undoing Changes**  
+- Unstage files (`git restore --staged`)  
+- Discard changes (`git restore`, `git checkout`)  
+- Reset commits (`git reset --soft`, `--mixed`, `--hard`)  
+- Revert a commit (`git revert`)  
+
+### **6. Stashing**  
+- Stash changes (`git stash`)  
+- Apply, pop, or drop stashes  
+
+### **7. Tagging**  
+- Create annotated/lightweight tags (`git tag`)  
+- Push tags to remote  
+
+### **8. Collaboration Workflows**  
+- Forking workflow  
+- Pull Requests/Merge Requests  
+- Sync forks (`git remote add upstream`)  
+
+### **9. Advanced Tools**  
+- Reflog (`git reflog` for recovery)  
+- Bisect (`git bisect` to find bugs)  
+- Submodules (`git submodule`)  
+- Worktree (`git worktree`)  
+
+### **10. Git Internals**  
+- Understand `.git` directory structure  
+- Blobs, trees, commits, tags  
+- How Git stores history (DAG: Directed Acyclic Graph)  
+
+### **11. Security & Signing**  
+- Sign commits with GPG  
+- SSH key setup for remotes  
+
+### **12. Best Practices**  
+- Meaningful commit messages  
+- Branching strategies (Git Flow, GitHub Flow)  
+- Use `.gitignore`  
+- Regular commits + atomic changes  
+
+### **13. Hosting Platforms**  
+- GitHub, GitLab, Bitbucket workflows  
+- CI/CD integration (GitHub Actions, GitLab CI)  
+
+### **14. Troubleshooting**  
+- Recover lost commits (via reflog)  
+- Clean untracked files (`git clean`)  
+
+### **15. Integrations**  
+- Git with IDEs (VSCode, IntelliJ)  
+- CLI tools (gh, glab)  
