@@ -1,7 +1,7 @@
 ### **1. Basics**  
 - Install & Configure Git (user.name, user.email, editor)  --
 - Initialize a repository (`git init`), clone (`git clone`)  --
-- Basic workflow: `status`, `add`, `commit`, `log`, `diff`  
+- Basic workflow: `status`, `add`, `commit`, `log`, `diff`  --
 
 ### **2. Branching & Merging**  
 - Create/switch branches (`git branch`, `git checkout`, `git switch`)  
