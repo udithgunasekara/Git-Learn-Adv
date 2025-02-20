@@ -11,7 +11,7 @@
 
 ### **3. Remote Repositories**  
 - Add remotes (`git remote add`)  
-- Push to remote (`git push`)  
+- Push to remote (`git push`)       
 - Pull from remote (`git pull`)  
 - Fetch vs. Pull (`git fetch` + manual merge)  
 
