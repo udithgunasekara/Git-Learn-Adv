@@ -4,21 +4,21 @@
 - Basic workflow: `status`, `add`, `commit`, `log`, `diff`  --
 
 ### **2. Branching & Merging**  
-- Create/switch branches (`git branch`, `git checkout`, `git switch`)  
-- Merge branches (`git merge`)  
-- Resolve merge conflicts  
-- Delete branches  
+- Create/switch branches (`git branch`, `git checkout`, `git switch`)  ---
+- Merge branches (`git merge`)  ---
+- Resolve merge conflicts  ---
+- Delete branches  ---
 
 ### **3. Remote Repositories**  
-- Add remotes (`git remote add`)  
-- Push to remote (`git push`)  
-- Pull from remote (`git pull`)  
-- Fetch vs. Pull (`git fetch` + manual merge)  
+- Add remotes (`git remote add`)  ---
+- Push to remote (`git push`)  ---
+- Pull from remote (`git pull`)  ---
+- Fetch vs. Pull (`git fetch` + manual merge)  ---
 
 ### **4. Advanced Commits**  
 - Amend commits (`git commit --amend`)  
 - Interactive rebase (`git rebase -i`)  
-- Cherry-pick (`git cherry-pick <commit-hash>`)  
+- Cherry-pick (`git cherry-pick <commit-hash>`)  ----
 - Squash commits  
 
 ### **5. Undoing Changes**  
