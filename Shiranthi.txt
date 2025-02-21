@@ -1,3 +1,5 @@
 I'm the mother of Namal, chichi and I don't know another ones name. :)
 Modified this for check staging.
-My husbans' brother is Gotabaya.
+My husbans' brother is Gotabaya. (Checking commit -a and -m for modified commits and created new files) falied
+i did stating them again using "git add ."
+text commit -a case 01
